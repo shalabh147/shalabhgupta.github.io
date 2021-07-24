@@ -21,4 +21,4 @@ A work-in-progress. Stay tuned.
 
 ## Website credits
 
-Template picked from [Kalpesh Krishna](https://martiansideofthemoon.github.io/) 
+Template picked from [Kalpesh Krishna](https://martiansideofthemoon.github.io/).
