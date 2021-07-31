@@ -17,8 +17,4 @@ Feel free to fork the website. It's the default Jekyll template with minor CSS m
 
 ## Personal webpage
 
-A work-in-progress. Stay tuned. 
-
-## Website credits
-
-Template picked from [Kalpesh Krishna](https://martiansideofthemoon.github.io/).
+Template Credits: [Kalpesh Krishna](https://martiansideofthemoon.github.io/).
