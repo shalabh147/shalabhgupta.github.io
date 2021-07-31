@@ -4,9 +4,9 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li>{}<a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <ul class="social-media-list">
+          <li>{% include icon-gmail.html username=site.gmail_username %}</li>
+          <li>{% include icon-goodreads.html username=site.goodreads_username %}</a></li>
         </ul>
       </div>
       <div class="footer-col footer-col-1">
@@ -16,6 +16,9 @@
         </ul>
       </div>
     
+      <div class="footer-col footer-col-1">
+        <a href=https://martiansideofthemoon.github.io/>Template Credits</a> 
+      </div>
     </div>
 
   </div>

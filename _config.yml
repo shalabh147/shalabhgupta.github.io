@@ -8,7 +8,7 @@
 # Site settings
 title: Saikiran
 full_name: Akkapaka Saikiran
-email: saikiraniitb[:)]gmail.com
+gmail_username: saikiraniitb
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://akkapakasaikiran.github.io" # the base hostname & protocol for your site
