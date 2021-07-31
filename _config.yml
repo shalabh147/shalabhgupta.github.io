@@ -6,20 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Akkapaka Saikiran
+title: Saikiran
 full_name: Akkapaka Saikiran
-email: saikiraniitb@gmail.com
-email2: a.saikiran@iitb.ac.in
+email: saikiraniitb[:)]gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://akkapakasaikiran.github.io" # the base hostname & protocol for your site
 github_username:  akkapakasaikiran
-twitter_username: apsrb911
-linkedin_username: kalpesh-krishna-6b3827a6
-stackoverflow: 5080995/martianwars
+linkedin_username: akkapaka-saikiran-687112185
+goodreads_username: skeletondetective
 include: ['_pages']
-footer-links-active:
-  stackoverflow: true
 
 # Build settings
 markdown: kramdown
