@@ -5,8 +5,6 @@ permalink: /resumes/
 order: 2
 ---
 
-### My Resumes 
-
 * Aug 2021 
 [[twopage]({{ site.url }}/assets/resumes/2021-twopage.pdf)] 
 [[onepage]({{ site.url }}/assets/resumes/2021-onepage.pdf)]
@@ -16,4 +14,4 @@ order: 2
 * Sep 2019 
 [[twopage]({{ site.url }}/assets/resumes/2019-twopage.pdf)] 
 [[onepage]({{ site.url }}/assets/resumes/2019-onepage.pdf)]
-[4-page CV]({{ site.url }}/assets/cv.pdf)
+
