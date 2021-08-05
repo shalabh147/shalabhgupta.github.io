@@ -5,7 +5,7 @@ permalink: /projects/
 order: 3
 ---
 
-## Research Projects
+### Research Projects
 
 * Self-supervised learning of shared audio-video-text representations (Ongoing)
     * Exploring novel intermediate pretraining strategies to learn joint audio-video-text embeddings
@@ -19,7 +19,7 @@ order: 3
 [[report]({{ site.url }}/assets/reports/sketch_based_modeling.pdf)]
     * Studied various approaches of generating3D models from user-drawn sketches, attempting to devise a novel method which would generate a set of smoothly-connected Bézier patches to fit the sketch
 
-## Technical Projects
+### Technical Projects
 
 * Image Segmentation using Recurrent Residual U-Net (Spring 2020)
 [[code](https://github.com/akkapakasaikiran/MIS-R2UNet)] 
@@ -30,12 +30,12 @@ order: 3
     * Built a compiler for a subset of C incorporating expressions, control structures, functions, and scoping
     * Performed scanning (using Lex), parsing (using Yacc), and AST construction, yielding assembly code
 
-* Hospital Management System (Spring 2021) 
+* Hospital Management System (Spring 2021) [[code](https://github.com/CS387-Project-Team/Patient-management-system)]
     * Developed a patient-centric hospital management system as a Flask web app providing functionalities such as book/cancel appointments and tests, buy medicines, pay bills, add prescription, etc.
     * Added secure access to patients’ details and history as well as an interface to view disease analytics
 
 * FMX Modeling and Animation (Autumn 2020) 
-[[code]]() 
+[[code]()] 
 [[movie](https://youtu.be/RhG3SWKn6W8)]
     * Modeled a bike, a rider, and a track in OpenGL and rendered it using shading and texturing
     * Animated the above scene to create a short movie of an FMX rider performing stunts
@@ -48,7 +48,7 @@ order: 3
     * Studied precursor attacks like Meltdown and Spectre which exploit transient out-of-order execution
     * Presented a proof-of-concept by simulating SGX's abort page semantics to showcase an attack
 
-## Smaller Projects
+### Smaller Projects
 
 * A Simple Container from Scratch [[code]()]
     * Understood and built a simple container from scratch using Linux namespaces and cgroups
