@@ -7,21 +7,21 @@ order: 3
 
 ### Research Projects
 
-Self-supervised learning of shared audio-video-text representations (Ongoing)
+* Self-supervised learning of shared audio-video-text representations (Ongoing)
     * Exploring novel intermediate pretraining strategies to learn joint audio-video-text embeddings
     * Experimenting with cross-modal contrastive losses, extending them to three modalities using *mixup*
 
-Microarchitectural Enhancements for High Performance I/O (Ongoing)
+* Microarchitectural Enhancements for High Performance I/O (Ongoing)
     * Augmenting an existing microarchitecture simulator, Qsim, with I/O tracing functionality
     * Exploring microarchitectural optimizations to improve latency under the regime of high speed I/O
 
-Sketch-based Modeling (Spring 2021) 
+* Sketch-based Modeling (Spring 2021) 
 [[report]({{ site.url }}/assets/reports/sketch_based_modeling.pdf)]
     * Studied various approaches of generating3D models from user-drawn sketches, attempting to devise a novel method which would generate a set of smoothly-connected Bézier patches to fit the sketch
 
 ### Technical Projects
 
-Image Segmentation using Recurrent Residual U-Net (Spring 2020)
+* Image Segmentation using Recurrent Residual U-Net (Spring 2020)
 [[code](https://github.com/akkapakasaikiran/MIS-R2UNet)] 
 [[report](https://github.com/akkapakasaikiran/MIS-R2UNet/blob/master/project_report.pdf)]
     * Performed segmentation on medical images using a deep neural network developed by augmenting a U-Net with residual connections and recurrence, achieving fine results on the dice coefficient metric
