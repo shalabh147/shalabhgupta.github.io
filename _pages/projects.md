@@ -51,23 +51,23 @@ order: 3
 ### Smaller Projects
 
 * A Simple Container from Scratch [[code](https://github.com/akkapakasaikiran/container-from-scratch)]
-    * Understood and built a simple container from scratch using Linux namespaces and cgroups
+    <!-- * Understood and built a simple container from scratch using Linux namespaces and cgroups -->
 
-*Reinforcement Learning
+* Reinforcement Learning
     * Bandit Algorithms [[code](https://github.com/akkapakasaikiran/bandit-algos)]
     * MDP Planning [[code](https://github.com/akkapakasaikiran/mdp-planning)]
     * Windy Gridworld [[code](https://github.com/akkapakasaikiran/windy-gridworld)]
 
-*Proofreading Rewriter [[code](https://github.com/akkapakasaikiran/Proofreading-Rewriter)]
-    * Developed a Python-based tool which detects and corrects spelling and grammar mistakes, and suggests alternative words and phrases using statistics from online APIs like datamuse and phrasefinder
+* Proofreading Rewriter [[code](https://github.com/akkapakasaikiran/Proofreading-Rewriter)]
+    <!-- * Developed a Python-based tool which detects and corrects spelling and grammar mistakes, and suggests alternative words and phrases using statistics from online APIs like datamuse and phrasefinder -->
 
 * Spanning Tree Protocol [[code](https://github.com/akkapakasaikiran/NoLoops)] 
-    * Built a loop-free logical topology of LANs and bridges by implementing the protocol in C++
-    * Simulated the functioning of learning bridges on a sequence of data transfers using callbacks
+    <!-- * Built a loop-free logical topology of LANs and bridges by implementing the protocol in C++ -->
+    <!-- * Simulated the functioning of learning bridges on a sequence of data transfers using callbacks -->
 
 * Battleships [[code](https://github.com/saum-g/Battleships)]
-    * Implemented the board game Battleships in the language Racket with multiple difficulty levels, incorporating ideas from functional and object oriented paradigms to design probabilistic
+    <!-- * Implemented the board game Battleships in the language Racket with multiple difficulty levels, incorporating ideas from functional and object oriented paradigms to design probabilistic -->
 
 * Traffic Sign Classification using Deep Learning [[code](https://github.com/akkapakasaikiran/Traffic-Signs-Classifier)]
-    * Implemented a CNN based on Inception modules and Spatial Transformation layers from scratch
-    * Trained on the GTSRB dataset achieving almost 98% accuracy with little to no data augmentation
+    <!-- * Implemented a CNN based on Inception modules and Spatial Transformation layers from scratch -->
+    <!-- * Trained on the GTSRB dataset achieving almost 98% accuracy with little to no data augmentation -->
