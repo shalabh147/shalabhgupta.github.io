@@ -15,3 +15,5 @@ order: 2
 [[twopage]({{ site.url }}/assets/resumes/2019-twopage.pdf)] 
 [[onepage]({{ site.url }}/assets/resumes/2019-onepage.pdf)]
 
+[[tmp file]({{ site.url }}/assets/small_file)]
+
