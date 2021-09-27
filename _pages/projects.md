@@ -19,6 +19,11 @@ order: 3
 [[report]({{ site.url }}/assets/reports/sketch_based_modeling.pdf)]
     * Studied various approaches of generating3D models from user-drawn sketches, attempting to devise a novel method which would generate a set of smoothly-connected Bézier patches to fit the sketch
 
+* Analysis of Vector Addition Systems
+[[report]({{ site.url }}/assets/reports/ens_internship_report.pdf)]
+    * Worked on the non-trivial problem of devising an algorithm to construct the semi-linear bases for projections
+    of reachability sets of Vector Addition Systems, elucidating definitions and formal proofs
+
 ### Technical Projects
 
 * Image Segmentation using Recurrent Residual U-Net (Spring 2020)
