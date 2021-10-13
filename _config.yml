@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Saikiran
-full_name: Akkapaka Saikiran
-gmail_username: saikiraniitb
+title: Shalabh
+full_name: Shalabh Gupta
+gmail_username: shalabh147
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://akkapakasaikiran.github.io" # the base hostname & protocol for your site
-github_username:  akkapakasaikiran
-linkedin_username: akkapaka-saikiran-687112185
+url: "https://shalabhgupta.github.io" # the base hostname & protocol for your site
+github_username:  shalabh147
+linkedin_username: shalabh-gupta-bb631816b
 goodreads_username: skeletondetective
 include: ['_pages']
 
